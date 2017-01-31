@@ -1,2 +1,2 @@
 # DemoInterface
-python gui for demo of doubt
+python gui for demo of youbot
